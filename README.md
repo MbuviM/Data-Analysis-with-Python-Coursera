@@ -1,7 +1,6 @@
 # Data-Analysis-with-Python-Coursera
 A collection of Data Analytics projects that give an in-depth understanding of everything a data scientist or analyst should know for them to thrive in their respective fields.
 
-
 All the projects are part of the Data Analytics Course by IBM in Coursera.
 
 ## Topics Covered
@@ -20,6 +19,5 @@ All the projects are part of the Data Analytics Course by IBM in Coursera.
 
 ## Copyright
 IBM
-
 
 Coursera
