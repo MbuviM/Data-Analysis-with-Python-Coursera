@@ -18,6 +18,5 @@ All the projects are part of the Data Analytics Course by IBM in Coursera.
 * Google Colab
 
 ## Copyright
-IBM
-
-Coursera
+*IBM
+*Coursera
